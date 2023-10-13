@@ -1,39 +1,26 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DA160)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DA160)
 
-# Session ID - Session Title
+# DA160 - Hands-On Experience with SAP Master Data Governance, cloud edition
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2023 session DA160 - Hands-On Experience with SAP Master Data Governance,cloud edition.  
 
 ## Overview
 
-This session introduces attendees to...
-
-## Requirements
-
-The requirements to follow the exercises in this repository are...
+Explore the cloud edition of the SAP Master Data Governance application running on SAP Business Technology Platform. See how to use functionality such as consolidation, central governance, and data quality management to establish efficient master data management processes and high data quality. Knowledgeable product owners can answer your questions and help you understand how to accelerate your journey as a data-driven intelligent enterprise to drive informed decisions.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+### Exercise 1 - Getting started: Access Your Group’s Tenant
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+In this exercise, you will see how to access the tenant of SAP Master Data Governance, cloud edition that is dedicated to your group.
 
-  
-**OR** Link to the Tutorial Navigator for example...
+The credentials for logon are shared only in the session room.
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+### Exercise 2 - Business Partner Creation with Central Governance
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+In this exercise, you will learn the basics for working with the central governance capabilities of SAP Master Data Governance, cloud edition. You will start by creating a business partner with different data sets, such as address, role, bank data, and identification numbers. Then you submit your request for approval.
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
