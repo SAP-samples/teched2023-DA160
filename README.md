@@ -20,10 +20,17 @@ The credentials for logon are shared only in the session room.
 
 In this exercise, you will learn the basics for working with the central governance capabilities of SAP Master Data Governance, cloud edition. You will start by creating a business partner with different data sets, such as address, role, bank data, and identification numbers. Then you submit your request for approval.
 
+### Exercise 3 - Upload and Consolidate Business Partner Data
+
+In this exercise, you will learn the basics for working with the consolidation capabilities of SAP Master Data Governance, cloud edition. You will start with the import of source data in spreadsheet format and the creation of a consolidation process. Then you will examine the results of each process step. Furthermore, you will learn how to use the match review to understand the result of matching and how to work with match groups and the result of the best record calculation.
+
 ## Exercises
+
+Navigate to the links below to get a detailed description to perform each exercise.
 
 - [Exercise 1 - Getting started: Access Your Group’s Tenant](exercises/ex1/)
 - [Exercise 2 - Business Partner Creation with Central Governance](exercises/ex2/)
+- [Exercise 3 - Upload and Consolidate Business Partner Data](exercises/ex3/)
 
 ## Contributing
 
