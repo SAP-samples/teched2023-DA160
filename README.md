@@ -24,6 +24,10 @@ In this exercise, you will learn the basics for working with the central governa
 
 In this exercise, you will learn the basics for working with the consolidation capabilities of SAP Master Data Governance, cloud edition. You will start with the import of source data in spreadsheet format and the creation of a consolidation process. Then you will examine the results of each process step. Furthermore, you will learn how to use the match review to understand the result of matching and how to work with match groups and the result of the best record calculation.
 
+### Exercise 4 - Mass Change
+
+In this exercise, you will learn the basics for working with the mass change capabilities of SAP Master Data Governance, cloud edition. You will start with the creation of a mass request, which can be used to perform all required changes for selected business partners. After that you submit this request, and as an approver you will get a workflow task to approve the changes.
+
 ## Exercises
 
 Navigate to the links below to get a detailed description to perform each exercise.
@@ -31,6 +35,7 @@ Navigate to the links below to get a detailed description to perform each exerci
 - [Exercise 1 - Getting started: Access Your Group’s Tenant](exercises/ex1/)
 - [Exercise 2 - Business Partner Creation with Central Governance](exercises/ex2/)
 - [Exercise 3 - Upload and Consolidate Business Partner Data](exercises/ex3/)
+- [Exercise 4 - Mass Change](exercises/ex3/)
 
 ## Contributing
 
