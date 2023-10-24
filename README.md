@@ -28,6 +28,10 @@ In this exercise, you will learn the basics for working with the consolidation c
 
 In this exercise, you will learn the basics for working with the mass change capabilities of SAP Master Data Governance, cloud edition. You will start with the creation of a mass request, which can be used to perform all required changes for selected business partners. After that you submit this request, and as an approver you will get a workflow task to approve the changes.
 
+# Exercise 5 - Data Quality Management
+
+With this exercise you explore some of the features for master data quality management offered by SAP Master Data Governance, cloud edition (MDG Cloud). You will see how data quality rules for validation of master data are managed and how you can control their usage in master data processes. You will use the Evaluation Results app to analyze the results of a data quality evaluation and see how you can fix detected errors.
+
 ## Exercises
 
 Navigate to the links below to get a detailed description to perform each exercise.
@@ -35,7 +39,8 @@ Navigate to the links below to get a detailed description to perform each exerci
 - [Exercise 1 - Getting started: Access Your Group’s Tenant](exercises/ex1/)
 - [Exercise 2 - Business Partner Creation with Central Governance](exercises/ex2/)
 - [Exercise 3 - Upload and Consolidate Business Partner Data](exercises/ex3/)
-- [Exercise 4 - Mass Change](exercises/ex3/)
+- [Exercise 4 - Mass Change](exercises/ex4/)
+- [Exercise 5 - Data Quality Management](exercises/ex5/)
 
 ## Contributing
 
