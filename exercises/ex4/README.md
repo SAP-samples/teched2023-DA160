@@ -28,4 +28,4 @@ Follow [DA160-Exercise-4.pdf](./supplements/DA160-Exercise-4.pdf) for a step-by-
 
 Congratulations! You finalized a mass change in SAP Master Data Governance, cloud edition. You can proceed with the next exercise.
 
-Continue to [Exercise 5 - Data Quality Management](exercises/ex5/).
+Continue to [Exercise 5 - Data Quality Management](/exercises/ex5/).

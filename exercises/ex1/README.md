@@ -14,4 +14,4 @@ Follow [DA160-Exercise-1.pdf](./supplements/DA160-Exercise-1.pdf) for a step-by-
 
 ## Summary
 
-Continue to [Exercise 2 - Business Partner Creation with Central Governance](exercises/ex2/).
+Continue to [Exercise 2 - Business Partner Creation with Central Governance](/exercises/ex2/).

@@ -32,4 +32,4 @@ Follow [DA160-Exercise-2.pdf](./supplements/DA160-Exercise-2.pdf) for a step-by-
 
 You have created your first business partner with SAP Master Data Governance, cloud edition! You can proceed with the next exercise.
 
-Continue to [Exercise 3 - Upload and Consolidate Business Partner Data](exercises/ex3/).
+Continue to [Exercise 3 - Upload and Consolidate Business Partner Data](/exercises/ex3/).

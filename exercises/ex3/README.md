@@ -27,4 +27,4 @@ Follow [DA160-Exercise-3.pdf](./supplements/DA160-Exercise-3.pdf) for a step-by-
 
 You finalized a consolidation process in SAP Master Data Governance, cloud edition! You can proceed with the next exercise.
 
-Continue to [Exercise 4 - Mass Change](exercises/ex4/).
+Continue to [Exercise 4 - Mass Change](/exercises/ex4/).

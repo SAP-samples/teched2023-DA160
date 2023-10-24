@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session DA160 - Hands-On Experience with SAP Master Data Governance,cloud edition.  
+This repository contains the material for the SAP TechEd 2023 session DA160 - Hands-On Experience with SAP Master Data Governance, cloud edition.  
 
 ## Overview
 
