@@ -10,6 +10,10 @@ This repository contains the material for the SAP TechEd 2023 session DA160 - Ha
 
 Explore the cloud edition of the SAP Master Data Governance application running on SAP Business Technology Platform. See how to use functionality such as consolidation, central governance, and data quality management to establish efficient master data management processes and high data quality. Knowledgeable product owners can answer your questions and help you understand how to accelerate your journey as a data-driven intelligent enterprise to drive informed decisions.
 
+### Introduction
+
+We will briefly introduce SAP Master Data Governance in the beginning of the session using these [slides](./exercises/introduction/DA160_Presentation.pdf/).
+
 ### Exercise 1 - Getting started: Access Your Group’s Tenant
 
 In this exercise, you will see how to access the tenant of SAP Master Data Governance, cloud edition that is dedicated to your group.
