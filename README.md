@@ -32,7 +32,7 @@ In this exercise, you will learn the basics for working with the consolidation c
 
 In this exercise, you will learn the basics for working with the mass change capabilities of SAP Master Data Governance, cloud edition. You will start with the creation of a mass request, which can be used to perform all required changes for selected business partners. After that you submit this request, and as an approver you will get a workflow task to approve the changes.
 
-# Exercise 5 - Data Quality Management
+### Exercise 5 - Data Quality Management
 
 With this exercise you explore some of the features for master data quality management offered by SAP Master Data Governance, cloud edition (MDG Cloud). You will see how data quality rules for validation of master data are managed and how you can control their usage in master data processes. You will use the Evaluation Results app to analyze the results of a data quality evaluation and see how you can fix detected errors.
 
